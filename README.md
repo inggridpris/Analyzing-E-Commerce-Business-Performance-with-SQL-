@@ -1,22 +1,22 @@
 # Analyzing E-Commerce Business Performance with SQL : Project Overview <br>
 
-- 	In a company measuring business performance is a very important to track, monitor, and assess the success or failure of various business processes. Therefore, in this project will analysis business performance for an E-Commerce company. Tracking into account several business metrics namely customer growth, quality of product, and payment type.<br>
-- 	This project using SQL, postgre SQL. But, it can use with any SQL program, like mysql, biqquery, etc.<br>
-- 	This project have 8 datasets.<br>
+#### - 	In a company measuring business performance is a very important to track, monitor, and assess the success or failure of various business processes. Therefore, in this project will analysis business performance for an E-Commerce company. Tracking into account several business metrics namely customer growth, quality of product, and payment type.<br>
+#### - 	This project using SQL, postgre SQL. But, it can use with any SQL program, like mysql, biqquery, etc.<br>
+#### - 	This project have 8 datasets.<br>
 
 ## The Process <br>
-In This project, there are 8 Datasets : customers, geolocation, order items, order payments, order reviews, orders, product, and sellers. One of the table name geolocation, not found relationship because from this table not have a primary key and can not use one to another table. This is the ERD from this Dataset: <br>
+#### In This project, there are 8 Datasets : customers, geolocation, order items, order payments, order reviews, orders, product, and sellers. One of the table name geolocation, not found relationship because from this table not have a primary key and can not use one to another table. This is the ERD from this Dataset: <br>
 
 ![ALT](https://github.com/inggridpris/Analyzing-E-Commerce-Business-Performance-with-SQL-/blob/main/Fig/ERD.jpg "ERD")
 
 <br>
 
 ## The progress to have this ERD are: <br>
-1.	Create a new database.<br>
-2.	Create a new table and column for each dataset.<br>
-3.	Export the excel to each table according to its name.<br>
-4.	Use Alter table to pick a primary key and foreign key at each table.<br>
-5.	After finish, take a look to ERD.<br>
+#### 1.	Create a new database.<br>
+#### 2.	Create a new table and column for each dataset.<br>
+#### 3.	Export the excel to each table according to its name.<br>
+#### 4.	Use Alter table to pick a primary key and foreign key at each table.<br>
+#### 5.	After finish, take a look to ERD.<br>
 
 ## The Results<br>
 As we want to know about three business metrics that need to take a look so we know about the business project in the e-commerce company.<br>
