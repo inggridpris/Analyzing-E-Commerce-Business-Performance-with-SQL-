@@ -55,9 +55,12 @@
 
 <br>
 ##### For more detail, you can visit the link below:
+<br>
 https://github.com/inggridpris/Analyzing-E-Commerce-Business-Performance-with-SQL-
+<br>
 https://drive.google.com/drive/folders/13aM0GMabM71OKnta6z4j0C0C6k_VtuaL?usp=sharing
 <br>
 ##### or you can connect with me with linkedin
+<br>
 https://www.linkedin.com/in/inggriani-priscilia-69779b179/
 
