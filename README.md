@@ -1,4 +1,4 @@
-Analyzing E-Commerce Business Performance with SQL : Project Overview
+### Analyzing E-Commerce Business Performance with SQL : Project Overview
 
 •	In a company measuring business performance is a very important to track, monitor, and assess the success or failure of various business processes. Therefore, in this project will analysis business performance for an E-Commerce company. Tracking into account several business metrics namely customer growth, quality of product, and payment type.
 •	This project using SQL, postgre SQL. But, it can use with any SQL program, like mysql, biqquery, etc.
