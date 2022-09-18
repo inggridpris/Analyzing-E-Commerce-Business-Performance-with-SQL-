@@ -21,6 +21,7 @@
 ## The Results<br>
 #### As we want to know about three business metrics that need to take a look so we know about the business project in the e-commerce company.<br>
 <br>
+
 #### -	Customer Growth <br>
 ![ALT](https://github.com/inggridpris/Analyzing-E-Commerce-Business-Performance-with-SQL-/blob/main/Fig/The%20combine%20of%20the%20matrics.jpg "Customers Growth")
 
@@ -56,6 +57,7 @@
 ##### For more detail, you can visit the link below:
 https://github.com/inggridpris/Analyzing-E-Commerce-Business-Performance-with-SQL-
 https://drive.google.com/drive/folders/13aM0GMabM71OKnta6z4j0C0C6k_VtuaL?usp=sharing
+<br>
 ##### or you can connect with me with linkedin
 https://www.linkedin.com/in/inggriani-priscilia-69779b179/
 
